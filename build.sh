@@ -1,4 +1,3 @@
-you,15 hours ago | 1 author (you)
 #! /usr/bin/env bash
 # exit on error
 set -o errexit
